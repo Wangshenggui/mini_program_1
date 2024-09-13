@@ -5,9 +5,10 @@
     "pages/news/news"
   ],
   "window": {
+    "backgroundTextStyle": "light",
     "navigationBarTextStyle": "black",
-    "navigationBarTitleText": "LC29H RTK",
-    "navigationBarBackgroundColor": "#ffffff"
+    "navigationBarTitleText": "骞羽智能",
+    "navigationBarBackgroundColor": "#00aaff"
   },
   "style": "v2",
   "componentFramework": "glass-easel",
